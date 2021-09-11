@@ -3,6 +3,7 @@
 	"description": "A web app that teaches people the ability to make meaningful contribution to web project",
 	"name": "fcc-learn-npm-package-json",
 	"keywords": ["freecodecamp", "learnprogramming", "package json" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

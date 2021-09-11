@@ -4,6 +4,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"keywords": ["freecodecamp", "learnprogramming", "package json" ],
 	"license": "MIT",
+	"version": "12.19.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
